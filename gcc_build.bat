@@ -1,0 +1,1 @@
+g++ cal.cpp -o cal.exe

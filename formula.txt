@@ -1,0 +1,11 @@
+250*0.4
+sin(2*pi*4.8)+exp(-pi)
+exp(-j*pi/2)
+x+5*x+x*(x+1)
+exp(x)
+exp(j*pi/2)
+sin(2*pi*4.8)+exp(-pi)*0
+exp(2*x+3*x+5*y)
+2*x*(x+1)*4
+exp(2*x+3*x)
+X +5*X +X*(X+1)+1+5*X+X*(2+1)
